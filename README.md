@@ -1,0 +1,13 @@
+
+## RH-Virtual
+# Objetivos
+# RH-Virtual
+
+## Objetivos
+Atividade técnica de processo seletivo para cargo de desenvolvedor Java. Seu objetivo é de ler um banco de dados utilizando Postgre e calcular o sálario dos funcionários utilozando o JSF.
+
+# Tecnologias
+## Tecnologias
+Java
+Postgre
+Hibernate
