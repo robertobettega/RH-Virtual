@@ -2,7 +2,7 @@
 # RH-Virtual
 
 ## Objetivos
-Atividade técnica de processo seletivo para cargo de desenvolvedor Java. Seu objetivo é de ler um banco de dados utilizando Postgre e calcular o sálario dos funcionários utilizando o JSF.
+Atividade técnica de desenvolvimento em Java. Seu objetivo é de ler um banco de dados utilizando Postgre e calcular o sálario dos funcionários utilizando o JSF.
 
 ## Tecnologias
 Java
